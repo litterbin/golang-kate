@@ -1,0 +1,52 @@
+{
+	"ImportPath": "litterbin/golang-kate",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go.crypto/ssh/terminal",
+			"Comment": "null-236",
+			"Rev": "69e2a90ed92d03812364aeb947b7068dc42e561e"
+		},
+		{
+			"ImportPath": "github.com/cenkalti/backoff",
+			"Rev": "9831e1e25c874e0a0601b6dc43641071414eec7a"
+		},
+		{
+			"ImportPath": "github.com/dgrijalva/jwt-go",
+			"Comment": "v2.2.0-20-ge430b18",
+			"Rev": "e430b188c03effea9a80c53f0c2d4a1220f270fd"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "2dbddebb8266b93c5e6b119efb54e89043186f3f"
+		},
+		{
+			"ImportPath": "github.com/juju/ratelimit",
+			"Rev": "aa5bb718d4d435629821789cb90970319f57bfe5"
+		},
+		{
+			"ImportPath": "github.com/koding/cache",
+			"Rev": "487fc0ca06f9aa1a02d796f5510784b47d5afae2"
+		},
+		{
+			"ImportPath": "github.com/koding/kite",
+			"Rev": "387abd65d515285e87fa968b666d4ed18ac05764"
+		},
+		{
+			"ImportPath": "github.com/koding/logging",
+			"Rev": "98efaf62e3c3ff8496dcb446242033f6d858bb3c"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "442e588f213303bec7936deba67901f8fc8f18b1"
+		},
+		{
+			"ImportPath": "github.com/nu7hatch/gouuid",
+			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		},
+		{
+			"ImportPath": "gopkg.in/igm/sockjs-go.v2/sockjs",
+			"Rev": "50b75e1901c11bfce4e0467274fcc561e09aec65"
+		}
+	]
+}

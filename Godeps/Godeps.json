@@ -1,6 +1,6 @@
 {
-	"ImportPath": "litterbin/golang-kate",
-	"GoVersion": "go1.4.1",
+	"ImportPath": "github.com/litterbin/golang-kate",
+	"GoVersion": "go1.4.2",
 	"Deps": [
 		{
 			"ImportPath": "code.google.com/p/go.crypto/ssh/terminal",
@@ -37,12 +37,30 @@
 			"Rev": "98efaf62e3c3ff8496dcb446242033f6d858bb3c"
 		},
 		{
+			"ImportPath": "github.com/labstack/echo",
+			"Comment": "v0.0.8-4-g90ff3c1",
+			"Rev": "90ff3c14b2c86a6b26f727a57882981c8bd31aae"
+		},
+		{
+			"ImportPath": "github.com/labstack/gommon/color",
+			"Comment": "v0.0.1-4-gd7bc0ec",
+			"Rev": "d7bc0ec3f35f342441884937e1f27c94aae7e2df"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Rev": "d67e0b7d1797975196499f79bcc322c08b9f218b"
+		},
+		{
 			"ImportPath": "github.com/mitchellh/mapstructure",
 			"Rev": "442e588f213303bec7936deba67901f8fc8f18b1"
 		},
 		{
 			"ImportPath": "github.com/nu7hatch/gouuid",
 			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		},
+		{
+			"ImportPath": "github.com/thoas/stats",
+			"Rev": "bf6f83b1f32caeba3092c8964bfd8e46a995aa78"
 		},
 		{
 			"ImportPath": "gopkg.in/igm/sockjs-go.v2/sockjs",

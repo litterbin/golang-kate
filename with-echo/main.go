@@ -52,6 +52,6 @@ func main() {
 	//Start server
 	//e.Run(":7000")
 
-	k.HandleHTTP("/hello", e)
+	k.HandleHTTP("/echo", e)
 	k.Run()
 }

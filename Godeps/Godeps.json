@@ -17,12 +17,21 @@
 			"Rev": "e430b188c03effea9a80c53f0c2d4a1220f270fd"
 		},
 		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v0.6",
+			"Rev": "e2fa89777e344782ef5d31929f095f4589c35dcc"
+		},
+		{
 			"ImportPath": "github.com/gorilla/websocket",
 			"Rev": "2dbddebb8266b93c5e6b119efb54e89043186f3f"
 		},
 		{
 			"ImportPath": "github.com/juju/ratelimit",
 			"Rev": "aa5bb718d4d435629821789cb90970319f57bfe5"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Rev": "b59a38004596b696aca7aa2adccfa68760864d86"
 		},
 		{
 			"ImportPath": "github.com/koding/cache",

@@ -7,4 +7,6 @@ import (
 	"github.com/labstack/gommon/color"
 	"github.com/mattn/go-colorable"
 	"github.com/thoas/stats"
+
+	"github.com/gin-gonic/gin"
 )
